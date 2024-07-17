@@ -1,3 +1,4 @@
-while e==e do
-    print('e')
+e=print
+while e do
+    e'e'
 end
